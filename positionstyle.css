@@ -1,0 +1,23 @@
+.first-box-container {
+  display: inline-block;
+	margin: 10px;
+  width: 200px;
+  height: 100px;
+  background-color: red;
+}
+
+.second-box-container {
+  display: inline-block;
+	margin: 10px;
+  width: 200px;
+  height: 100px;
+  background-color: yellow;
+}
+
+.third-box-container {
+  display: inline-block;
+	margin: 10px;
+  width: 200px;
+  height: 100px;
+  background-color: green;
+}
