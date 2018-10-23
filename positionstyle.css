@@ -1,23 +1,44 @@
 .first-box-container {
   display: inline-block;
 	margin: 10px;
-  width: 200px;
+  width: 150px;
   height: 100px;
+	font-family: sans-serif;
+	text-align: center;
+	text-transform: uppercase;
+	color: blue;
   background-color: red;
+	border-style: solid;
+	border-width: 10px;
+	border-color: green;
 }
 
 .second-box-container {
   display: inline-block;
 	margin: 10px;
-  width: 200px;
+  width: 150px;
   height: 100px;
+	font-family: sans-serif;
+	text-align: center;
+	text-transform: uppercase;
+	color: blue;
   background-color: yellow;
+	border-style: solid;
+	border-width: 10px;
+	border-color: red;
 }
 
 .third-box-container {
   display: inline-block;
 	margin: 10px;
-  width: 200px;
+  width: 150px;
   height: 100px;
+	font-family: sans-serif;
+	text-align: center;
+	text-transform: uppercase;
+	color: blue;
   background-color: green;
+	border-style: solid;
+	border-width: 10px;
+	border-color: yellow;
 }
